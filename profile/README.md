@@ -62,11 +62,15 @@
 ---
 
 ### 📬 **Contato**
-<div style="display: inline_block">
-  <a href="MAILTO_AQUI">
-    <img src="https://img.shields.io/badge/-Email-01062e?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+<div style="display: inline-block;">
+  <a href="https://www.linkedin.com/company/data-driven-communitymz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="(https://chat.whatsapp.com/JYdKuoGYvEuCLS0jNUTho1?fbclid=PAZXh0bgNhZW0CMTEAAaYpHXd7A8SdOQTxrc6qmk7LBzYhg0W3yDaNDvhCfK9aB11y3VNY2uwbx1M_aem_gzGczfS_CVRmA-qsEzQmew)">
-    <img src="https://img.shields.io/badge/WhatsApp-83d4ef?style=flat-square&logo=whatsapp&logoColor=01062e" alt="WhatsApp">
+  <a href="https://www.instagram.com/datadrivencommunity.mz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://chat.whatsapp.com/JYdKuoGYvEuCLS0jNUTho1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
+
