@@ -65,20 +65,7 @@ Somos uma comunidade apaixonada por **Dados**, **Inteligência Artificial** e **
 
 ---
 
-### 📈 **Estatísticas do GitHub**
 
-<div align="center" style="margin: 20px 0;">
-
-[![Stars](https://img.shields.io/github/stars/DataDrivenCommunityMZ/DataDrivenCommunityMZ?style=for-the-badge&logo=github&color=01062e&labelColor=83d4ef)](https://github.com/DataDrivenCommunityMZ/DataDrivenCommunityMZ/stargazers)
-[![Forks](https://img.shields.io/github/forks/DataDrivenCommunityMZ/DataDrivenCommunityMZ?style=for-the-badge&logo=github&color=01062e&labelColor=83d4ef)](https://github.com/DataDrivenCommunityMZ/DataDrivenCommunityMZ/network/members)
-[![Contributors](https://img.shields.io/github/contributors/DataDrivenCommunityMZ/DataDrivenCommunityMZ?style=for-the-badge&logo=github&color=01062e&labelColor=83d4ef)](https://github.com/DataDrivenCommunityMZ/DataDrivenCommunityMZ/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/DataDrivenCommunityMZ/DataDrivenCommunityMZ?style=for-the-badge&logo=github&color=01062e&labelColor=83d4ef)](https://github.com/DataDrivenCommunityMZ/DataDrivenCommunityMZ/commits/main)
-
-[![Issues](https://img.shields.io/github/issues/DataDrivenCommunityMZ/DataDrivenCommunityMZ?style=flat-square&logo=git&color=83d4ef)](https://github.com/DataDrivenCommunityMZ/DataDrivenCommunityMZ/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/DataDrivenCommunityMZ/DataDrivenCommunityMZ?style=flat-square&logo=git&color=83d4ef)](https://github.com/DataDrivenCommunityMZ/DataDrivenCommunityMZ/pulls)
-[![License](https://img.shields.io/github/license/DataDrivenCommunityMZ/DataDrivenCommunityMZ?style=flat-square&color=83d4ef)](https://github.com/DataDrivenCommunityMZ/DataDrivenCommunityMZ/blob/main/LICENSE)
-
-</div>
 
 ### 🌟 **Junte-se a Nós**  
 
