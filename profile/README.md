@@ -1,5 +1,5 @@
-## Hi there 👋
-# Oiie, somos a Data Driven Community MZ! 👋
+## Olá 👋 👋
+# Somos a Data Driven Community MZ! 👋
 
 **A maior Comunidade de Dados e IA em Moçambique**  
 
@@ -7,9 +7,9 @@
 
 <div align="center">
 
-[![Visite nosso LinkedIn](https://img.shields.io/badge/-Conecte--se%20connosco-01062e?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN_AQUI)
-[![Participe dos Eventos](https://img.shields.io/badge/Eventos-83d4ef?style=for-the-badge&logo=meetup&logoColor=01062e)](LINK_EVENTOS_AQUI)
-[![Assista no YouTube](https://img.shields.io/badge/Youtube-01062e?style=for-the-badge&logo=youtube&logoColor=white)](LINK_YOUTUBE_AQUI)
+[![Visite nosso LinkedIn](https://img.shields.io/badge/-Conecte--se%20connosco-01062e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/data-driven-communitymz/)
+[![Participe dos Eventos](https://img.shields.io/badge/Eventos-83d4ef?style=for-the-badge&logo=meetup&logoColor=01062e)]
+
 
 </div>
 
@@ -55,9 +55,9 @@
 ---
 
 ### 🌟 **Junte-se a Nós**
-| [<img src="LINK_IMAGEM_EVENTO1" width="100px;" alt="Workshop de Dados"/>](LINK_EVENTO) | [<img src="LINK_IMAGEM_EVENTO2" width="100px;" alt="Hackathon IA"/>](LINK_EVENTO) | [<img src="LINK_IMAGEM_EVENTO3" width="100px;" alt="Meetup"/>](LINK_EVENTO) |
+
 | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| **Workshops Práticos**                                                                        | **Hackathons de IA**                                                                        | **Networking & Palestras**                                                                |
+| **Workshops Práticos**                                                                        | **Hackathons**                                                                        | **Networking & Palestras**                                                                |
 
 ---
 
@@ -66,7 +66,7 @@
   <a href="MAILTO_AQUI">
     <img src="https://img.shields.io/badge/-Email-01062e?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="LINK_WHATSAPP">
+  <a href="(https://chat.whatsapp.com/JYdKuoGYvEuCLS0jNUTho1?fbclid=PAZXh0bgNhZW0CMTEAAaYpHXd7A8SdOQTxrc6qmk7LBzYhg0W3yDaNDvhCfK9aB11y3VNY2uwbx1M_aem_gzGczfS_CVRmA-qsEzQmew)">
     <img src="https://img.shields.io/badge/WhatsApp-83d4ef?style=flat-square&logo=whatsapp&logoColor=01062e" alt="WhatsApp">
   </a>
 </div>
