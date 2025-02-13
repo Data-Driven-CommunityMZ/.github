@@ -1,32 +1,34 @@
-## Olá 👋 👋
-# Somos a Data Driven Community MZ! 👋
+## Olá 👋  
+# Somos a **Data Driven Community MZ!** 👋  
 
 **A maior Comunidade de Dados e IA em Moçambique**  
 
-🌐 Transformando dados em soluções impactantes através da colaboração e inovação.
+🌐 Transformando dados em soluções impactantes através da colaboração e inovação.  
 
+---
 
-💡 Quem Somos?
+### 💡 **Quem Somos?**  
+Somos uma comunidade apaixonada por **Dados**, **Inteligência Artificial** e **Tecnologia**. Nosso objetivo é capacitar profissionais e estudantes com conhecimentos práticos, compartilhamento de experiências e oportunidades de networking.  
 
-Somos uma comunidade apaixonada por Dados, Inteligência Artificial e Tecnologia. Nosso objetivo é capacitar profissionais e estudantes com conhecimentos práticos, compartilhamento de experiências e oportunidades de networking.
+🔹 **Palestras & Meetups**  
+🔹 **Workshops e Hands-on**  
+🔹 **Hackathons e Desafios**  
+🔹 **Projetos Open Source**  
 
-🔹 Palestras & Meetups
-🔹 Workshops e Hands-on
-🔹 Hackathons e Desafios
-🔹 Projetos Open Source
+---
 
 <div align="center">
 
 [![Visite nosso LinkedIn](https://img.shields.io/badge/-Conecte--se%20connosco-01062e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/data-driven-communitymz/)
 ![Participe dos Eventos](https://img.shields.io/badge/Eventos-83d4ef?style=for-the-badge&logo=meetup&logoColor=01062e)
 
-
 </div>
 
 ---
 
-### 🛠️ **Tech Stack da Comunidade**
-<div style="display: inline_block; margin: 15px 0">  
+### 🛠️ **Tech Stack da Comunidade**  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">  
+
   <!-- Linguagens e Banco de Dados -->
   <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
   <img align="center" alt="R" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  
@@ -59,34 +61,35 @@ Somos uma comunidade apaixonada por Dados, Inteligência Artificial e Tecnologia
   <!-- Ferramentas de Deploy e DevOps -->
   <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
   <img align="center" alt="Kubernetes" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />  
+
 </div>  
 
+---
+
+### 🌟 **Junte-se a Nós**  
+
+| **Workshops Práticos** | **Hackathons** | **Networking & Palestras** |  
+|:----------------------:|:--------------:|:--------------------------:|  
+| Aprenda com experts e coloque a mão na massa! | Participe de desafios inovadores e resolva problemas reais. | Conecte-se com profissionais e amplie sua rede. |  
 
 ---
 
-### 🌟 **Junte-se a Nós**
+### 🌍 **Junte-se à Comunidade!**  
+Quer fazer parte de um ecossistema de aprendizado contínuo? Entre no nosso grupo e acompanhe todas as novidades nas nossas redes sociais!  
 
-
- **Workshops Práticos**                                                                        | **Hackathons**                                                                        | **Networking & Palestras**                                                    
+<div style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">  
+  <a href="https://www.linkedin.com/company/data-driven-communitymz/">  
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">  
+  </a>  
+  <a href="https://www.instagram.com/datadrivencommunity.mz/">  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">  
+  </a>  
+  <a href="https://chat.whatsapp.com/JYdKuoGYvEuCLS0jNUTho1">  
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">  
+  </a>  
+</div>  
 
 ---
 
-### 🌍 Junte-se à Comunidade!
-Quer fazer parte de um ecossistema de aprendizado contínuo? Entre no nosso grupo e acompanhe todas as novidades nas nossas redes socias!
-<div style="display: inline-block;">
-  <a href="https://www.linkedin.com/company/data-driven-communitymz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/datadrivencommunity.mz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://chat.whatsapp.com/JYdKuoGYvEuCLS0jNUTho1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</div>
-
-
-📢 Ajude a comunidade crescer! Segue, compartilhe e contribua com nosso conteúdo. Juntos, vamos impulsionar o futuro dos dados em Moçambique! 🚀📊
-
-
-
+📢 **Ajude a comunidade crescer!**  
+Siga, compartilhe e contribua com nosso conteúdo. Juntos, vamos impulsionar o futuro dos dados em Moçambique! 🚀📊  
