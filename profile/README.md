@@ -34,7 +34,6 @@
 
   <!-- Machine Learning & Deep Learning -->
   <img align="center" alt="TensorFlow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />  
-  <img align="center" alt="PyTorch" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />  
   <img align="center" alt="Scikit-Learn" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />  
   <img align="center" alt="XGBoost" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" />  
 
