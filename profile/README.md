@@ -5,6 +5,16 @@
 
 🌐 Transformando dados em soluções impactantes através da colaboração e inovação.
 
+
+💡 Quem Somos?
+
+Somos uma comunidade apaixonada por Dados, Inteligência Artificial e Tecnologia. Nosso objetivo é capacitar profissionais e estudantes com conhecimentos práticos, compartilhamento de experiências e oportunidades de networking.
+
+🔹 Palestras & Meetups
+🔹 Workshops e Hands-on
+🔹 Hackathons e Desafios
+🔹 Projetos Open Source
+
 <div align="center">
 
 [![Visite nosso LinkedIn](https://img.shields.io/badge/-Conecte--se%20connosco-01062e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/data-driven-communitymz/)
@@ -61,7 +71,8 @@
 
 ---
 
-### 📬 **Contato**
+### 🌍 Junte-se à Comunidade!
+Quer fazer parte de um ecossistema de aprendizado contínuo? Entre no nosso grupo e acompanhe todas as novidades nas nossas redes socias!
 <div style="display: inline-block;">
   <a href="https://www.linkedin.com/company/data-driven-communitymz/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -73,4 +84,9 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
+
+
+📢 Ajude a comunidade crescer! Segue, compartilhe e contribua com nosso conteúdo. Juntos, vamos impulsionar o futuro dos dados em Moçambique! 🚀📊
+
+
 
