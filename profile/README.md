@@ -8,7 +8,7 @@
 <div align="center">
 
 [![Visite nosso LinkedIn](https://img.shields.io/badge/-Conecte--se%20connosco-01062e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/data-driven-communitymz/)
-[![Participe dos Eventos](https://img.shields.io/badge/Eventos-83d4ef?style=for-the-badge&logo=meetup&logoColor=01062e)]
+![Participe dos Eventos](https://img.shields.io/badge/Eventos-83d4ef?style=for-the-badge&logo=meetup&logoColor=01062e)
 
 
 </div>
