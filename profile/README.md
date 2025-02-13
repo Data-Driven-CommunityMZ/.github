@@ -41,8 +41,7 @@ Somos uma comunidade apaixonada por **Dados**, **Inteligência Artificial** e **
   <img align="center" alt="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />  
   <img align="center" alt="NumPy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />  
   <img align="center" alt="Matplotlib" height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />  
-  <img align="center" alt="Seaborn" height="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />  
-  <img align="center" alt="Plotly" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Plotly-logo.png" />  
+  <img align="center" alt="Seaborn" height="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />   />  
 
   <!-- Machine Learning & Deep Learning -->
   <img align="center" alt="TensorFlow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />  
